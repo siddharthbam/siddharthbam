@@ -1,7 +1,7 @@
 # Welcome to My Profile!
 
 ## About Me
-Hi there! 👋 I'm [Your Name], a passionate student with a keen interest in data analytics and visualization. I am constantly striving to deepen my understanding of data and leverage various tools and techniques to derive meaningful insights.
+Hi there! 👋 I'm Siddarth Bam, a passionate student with a keen interest in data analytics and visualization. I am constantly striving to deepen my understanding of data and leverage various tools and techniques to derive meaningful insights.
 
 ## Skills
 - **Excel:** Advanced proficiency in Excel for data manipulation, analysis, and visualization.
